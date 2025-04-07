@@ -37,3 +37,7 @@ h6{
 .font{
     font-size: 30px;
 }
+.text{
+    color: blueviolet;
+    text-align: left;
+}
