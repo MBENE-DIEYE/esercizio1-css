@@ -3,6 +3,12 @@ p{
     text-align: right;
 }
 
+.p1{
+    background: beige;
+}
+.p2{
+    text-decoration: underline;
+}
 h1{
     color: gray;
 }
