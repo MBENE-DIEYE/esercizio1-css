@@ -51,3 +51,6 @@ ul li:last-child{
 .p-rgb2{
     color: rgb(255, 0, 0);
 }
+.p-hex{
+    color:#ff0000;
+}
