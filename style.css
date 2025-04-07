@@ -4,7 +4,7 @@
 
 p{
     color: red;
-    text-align: right;
+    /* text-align: right; */
 }
 
 .p1{
@@ -47,4 +47,7 @@ a:hover{
 ul li:last-child{ 
     color: brown;
     font-size: 30px;
+}
+.p-rgb2{
+    color: rgb(255, 0, 0);
 }
