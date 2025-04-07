@@ -2,3 +2,22 @@ p{
     color: red;
     text-align: right;
 }
+
+h1{
+    color: gray;
+}
+h2{
+    color: blueviolet;
+}
+h3{
+    color: gold;
+}
+h4{
+    color: aquamarine;
+}
+h5{
+    color: teal;
+}
+h6{
+    color: yellowgreen;
+}
