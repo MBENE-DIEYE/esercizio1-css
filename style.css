@@ -16,9 +16,9 @@ p{
 h1{
     color: gray;
 }
-h2{
+/* h2{
     color: blueviolet;
-}
+} */
 h3{
     color: gold;
 }
@@ -44,10 +44,10 @@ h6{
 a:hover{
     color: red;
 }
-ul li:last-child{ 
+/* ul li:last-child{ 
     color: brown;
     font-size: 30px;
-}
+} */
 .p-rgb2{
     color: rgb(255, 0, 0);
 }
@@ -77,4 +77,9 @@ p{
 }
 #p1{
     color: orange;
+}
+
+div{
+    color: orchid;
+    text-align: center;
 }
