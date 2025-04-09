@@ -54,3 +54,8 @@ ul li:last-child{
 .p-hex{
     color:#ff0000;
 }
+
+h1,p,h3{
+    background: green;
+    color: white;
+}
